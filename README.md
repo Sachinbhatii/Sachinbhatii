@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working in **ADP**
 
-- 🌱 I’m currently learning **Angular**
-
 - 💬 Ask me about **angular, javascript**
 
 - 📫 How to reach me **sachin1bhati@gmail.com**
