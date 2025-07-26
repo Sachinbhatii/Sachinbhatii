@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **ADP**
 
-- 💬 Ask me about **React, Angular, Javascript**
+- 💬 Ask me about **Vue, React, Angular, Javascript**
 
 - 📫 How to reach me **sachin1bhati1@gmail.com**
 
