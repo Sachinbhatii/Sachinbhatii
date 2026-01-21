@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinbhatii" alt="sachinbhatii" /></a> </p>
 
-- 🔭 I’m currently working in **ADP**
+- 🔭 I’m currently working in **Mercedes-benz USA**
 
 - 💬 Ask me about **Vue, React, Angular, Javascript**
 
